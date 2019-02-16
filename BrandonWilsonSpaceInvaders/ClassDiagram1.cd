@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BrandonWilsonSpaceInvaders.CollisionDetector" Collapsed="true">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAA=</HashCode>
+      <FileName>CollisionDetector.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.EllipseThing" Collapsed="true">
+    <Position X="6.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EllipseThing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.EnemyProjectile" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>EnemyProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.EnemyShip" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAIAAAAAAAAAAACAAEAEAAA=</HashCode>
+      <FileName>EnemyShip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.GameMaster" Collapsed="true">
+    <Position X="12" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAIAAAAAAAAACAAIAAAASAAIAAAAAEBKgAAAEAAQ=</HashCode>
+      <FileName>GameMaster.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="DrawnObjects" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.MainWindow" Collapsed="true">
+    <Position X="12" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAACCAAAGAAAQCCAAACACAAAAAIAAAQAAAAAAA=</HashCode>
+      <FileName>MainWindow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.MovingThing" Collapsed="true">
+    <Position X="4" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAACAAEAEAAA=</HashCode>
+      <FileName>MovingThing.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="parts" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.PlayerCannon" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>PlayerCannon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.PlayerProjectile" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>PlayerProjectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.Program" Collapsed="true">
+    <Position X="13.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.Projectile" Collapsed="true">
+    <Position X="1.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.RectangleThing" Collapsed="true">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RectangleThing.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.Thing2D" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UQAAAAAAAAAAAAQAQAAAAAAAAAgAQAAIAEBgAAKAYAA=</HashCode>
+      <FileName>Thing2D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.Properties.Resources" Collapsed="true">
+    <Position X="15.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BrandonWilsonSpaceInvaders.Properties.Settings" Collapsed="true">
+    <Position X="12" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

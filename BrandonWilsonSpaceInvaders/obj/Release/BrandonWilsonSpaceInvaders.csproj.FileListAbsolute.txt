@@ -1,0 +1,9 @@
+C:\Users\panda\source\repos\BrandonWilsonSpaceInvaders\BrandonWilsonSpaceInvaders\bin\Release\BrandonWilsonSpaceInvaders.exe.config
+C:\Users\panda\source\repos\BrandonWilsonSpaceInvaders\BrandonWilsonSpaceInvaders\bin\Release\BrandonWilsonSpaceInvaders.exe
+C:\Users\panda\source\repos\BrandonWilsonSpaceInvaders\BrandonWilsonSpaceInvaders\bin\Release\BrandonWilsonSpaceInvaders.pdb
+C:\Users\panda\source\repos\BrandonWilsonSpaceInvaders\BrandonWilsonSpaceInvaders\obj\Release\BrandonWilsonSpaceInvaders.MainWindow.resources
+C:\Users\panda\source\repos\BrandonWilsonSpaceInvaders\BrandonWilsonSpaceInvaders\obj\Release\BrandonWilsonSpaceInvaders.Properties.Resources.resources
+C:\Users\panda\source\repos\BrandonWilsonSpaceInvaders\BrandonWilsonSpaceInvaders\obj\Release\BrandonWilsonSpaceInvaders.csproj.GenerateResource.Cache
+C:\Users\panda\source\repos\BrandonWilsonSpaceInvaders\BrandonWilsonSpaceInvaders\obj\Release\BrandonWilsonSpaceInvaders.csproj.CoreCompileInputs.cache
+C:\Users\panda\source\repos\BrandonWilsonSpaceInvaders\BrandonWilsonSpaceInvaders\obj\Release\BrandonWilsonSpaceInvaders.exe
+C:\Users\panda\source\repos\BrandonWilsonSpaceInvaders\BrandonWilsonSpaceInvaders\obj\Release\BrandonWilsonSpaceInvaders.pdb
